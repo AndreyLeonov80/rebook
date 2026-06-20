@@ -8,7 +8,7 @@ The system is designed to make biodiversity and endangered species data accessib
 
 ## Overview
 
-Red Book converts structured datasets (species records, habitats, threat levels, ecological notes) into complete video narratives. It is built for educational, scientific, and media production pipelines.
+ReBook converts structured datasets (species records, habitats, threat levels, ecological notes) into complete video narratives. It is built for educational, scientific, and media production pipelines.
 
 It supports both:
 - Open-source automation workflows
@@ -30,7 +30,7 @@ It supports both:
 
 ## System Architecture
 
-Red Book is composed of modular layers:
+ReBook is composed of modular layers:
 
 - **Data Layer** — structured ecological and conservation datasets
 - **Narrative Engine** — converts data into storytelling scripts
