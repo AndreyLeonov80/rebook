@@ -1,6 +1,6 @@
-# Re Book
+# ReBook
 
-**Re Book** is an automated video production system for the :contentReference[oaicite:0]{index=0} ecosystem. It transforms structured conservation data into ready-to-publish video content, including scripts, visuals, narration, and cinematic assembly.
+**ReBook** is an automated video production system for the :contentReference[oaicite:0]{index=0} ecosystem. It transforms structured conservation data into ready-to-publish video content, including scripts, visuals, narration, and cinematic assembly.
 
 The system is designed to make biodiversity and endangered species data accessible through scalable, automated multimedia production.
 
